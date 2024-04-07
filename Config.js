@@ -6,7 +6,7 @@ global.ownernumber = ['09159176927']
 global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//Dios jnr
 global.ytname = "YT: Dios jnr bot "
 global.socialm = "GitHub: dios jnr 😁
-global.location = "Nigeria"
+global.location = "india"
 
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
